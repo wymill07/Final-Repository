@@ -1,0 +1,23 @@
+h1 {
+  color: orangered;
+  text-align: center;
+}
+h1 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+h4 {
+  color: black;
+  text-align: center;
+}
+h4 {
+  font-family: sans-serif;
+  font-weight: normal;
+}
+p {
+  font-family: Georgia serif;
+  font-size: 15px;
+}
+body {
+  background-color: skyblue;
+}
